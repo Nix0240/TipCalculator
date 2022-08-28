@@ -24,6 +24,7 @@ body{
     background: linear-gradient(11deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
     padding: 50px;
     box-shadow: 1px 1px 15px 3px #2d3436;
+    border-radius: 5px;
 
 }
 
@@ -40,6 +41,8 @@ label{
 input{
     width:400px;
     padding:10px 0;
+    border-radius: 5px;
+    border: none;
 }
 
 button{
